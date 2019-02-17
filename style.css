@@ -2,3 +2,8 @@ p {
   font: 24px "Verdana";
   color: #494949;
 }
+
+#signature {
+    font-size: 12px;
+    font-style: italic;
+}
